@@ -77,10 +77,11 @@ Push to the branch: git push origin feature/your-feature
 Create a Pull Request
 
 ## Result
+| Rank | Repository Name           | Description                                         | Languages       | Similarity Score |
+| ---- | ------------------------- | --------------------------------------------------- | --------------- | ---------------- |
+| 1    | `awesome-python`          | A curated list of awesome Python frameworks, libs…  | Python          | 0.89             |
+| 2    | `machine-learning-algos`  | Collection of machine learning algorithms in Python | Python          | 0.87             |
+| 3    | `deep-learning-tutorials` | Tutorials for deep learning using PyTorch & Tensor… | Python          | 0.85             |
+| 4    | `data-science-notebooks`  | Jupyter notebooks for data science projects         | Python, Jupyter | 0.83             |
+| 5    | `nlp-resources`           | Resources for natural language processing projects  | Python, NLP     | 0.82             |
 
-Rank	Repository Name	Description	Languages	Similarity Score
-1	awesome-python	A curated list of awesome Python frameworks, libs…	Python	0.89
-2	machine-learning-algos	Collection of machine learning algorithms in Python	Python	0.87
-3	deep-learning-tutorials	Tutorials for deep learning using PyTorch & Tensor…	Python	0.85
-4	data-science-notebooks	Jupyter notebooks for data science projects	Python, Jupyter	0.83
-5	nlp-resources	Resources for natural language processing projects	Python, NLP	0.82
